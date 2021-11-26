@@ -1,0 +1,6 @@
+LowerCaseZBlocker processor.CharacterBlocker z
+UpperCaseZBlocker processor.CharacterBlocker Z
+LowerCaseKBlocker processor.CharacterBlocker k
+UpperCaseConverter processor.UpperCaseConverter
+LowerCaseConverter processor.LowerCaseConverter
+Multiplier processor.Multiplier

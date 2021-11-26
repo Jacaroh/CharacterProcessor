@@ -1,0 +1,2 @@
+LowerCaseABlocker processor.CharacterBlocker a
+UpperCaseCBlocker processor.CharacterBlocker C
